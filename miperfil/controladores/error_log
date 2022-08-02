@@ -1,0 +1,25 @@
+[19-Jul-2022 21:44:34 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:79
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/controladores/sliders_controlador.php(36): Procesos->ActualizarImagen(Array)
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 79
+[19-Jul-2022 21:44:34 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:79
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/controladores/sliders_controlador.php(36): Procesos->ActualizarImagen(Array)
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 79
+[19-Jul-2022 21:44:35 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:79
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/controladores/sliders_controlador.php(36): Procesos->ActualizarImagen(Array)
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 79
+[19-Jul-2022 21:44:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:79
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/controladores/sliders_controlador.php(36): Procesos->ActualizarImagen(Array)
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 79
+[19-Jul-2022 21:47:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:79
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/controladores/sliders_controlador.php(36): Procesos->ActualizarImagen(Array)
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 79

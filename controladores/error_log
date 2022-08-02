@@ -1,0 +1,9 @@
+[29-Jul-2022 19:50:45 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ecugasco/public_html/complementos/plugins/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jul-2022 19:54:21 America/New_York] PHP Parse error:  syntax error, unexpected 'O' (T_STRING) in /home/ecugasco/public_html/config/mail.php on line 7
+[29-Jul-2022 19:56:05 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ecugasco/public_html/complementos/plugins/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jul-2022 19:59:42 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ecugasco/public_html/complementos/plugins/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jul-2022 20:00:44 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ecugasco/public_html/complementos/plugins/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jul-2022 20:02:21 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ecugasco/public_html/complementos/plugins/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jul-2022 20:06:05 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ecugasco/public_html/complementos/plugins/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jul-2022 20:06:06 America/New_York] PHP Recoverable fatal error:  Object of class PHPMailer could not be converted to string in /home/ecugasco/public_html/controladores/login_controlador.php on line 43
+[29-Jul-2022 20:08:27 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ecugasco/public_html/complementos/plugins/phpmailer/PHPMailerAutoload.php on line 45

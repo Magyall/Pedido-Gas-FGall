@@ -1,0 +1,43 @@
+[27-Jul-2022 22:51:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/modelo/web_modelo.php:170
+Stack trace:
+#0 /home/ecugasco/public_html/index.php(14): Web->datos_sliders('inicio')
+#1 {main}
+  thrown in /home/ecugasco/public_html/modelo/web_modelo.php on line 170
+[27-Jul-2022 22:52:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/modelo/web_modelo.php:170
+Stack trace:
+#0 /home/ecugasco/public_html/index.php(14): Web->datos_sliders('inicio')
+#1 {main}
+  thrown in /home/ecugasco/public_html/modelo/web_modelo.php on line 170
+[27-Jul-2022 22:52:33 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/modelo/web_modelo.php:170
+Stack trace:
+#0 /home/ecugasco/public_html/index.php(14): Web->datos_sliders('inicio')
+#1 {main}
+  thrown in /home/ecugasco/public_html/modelo/web_modelo.php on line 170
+[27-Jul-2022 22:53:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/modelo/web_modelo.php:170
+Stack trace:
+#0 /home/ecugasco/public_html/index.php(14): Web->datos_sliders('inicio')
+#1 {main}
+  thrown in /home/ecugasco/public_html/modelo/web_modelo.php on line 170
+[27-Jul-2022 22:54:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/modelo/web_modelo.php:170
+Stack trace:
+#0 /home/ecugasco/public_html/index.php(14): Web->datos_sliders('inicio')
+#1 {main}
+  thrown in /home/ecugasco/public_html/modelo/web_modelo.php on line 170
+[27-Jul-2022 22:55:28 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/modelo/web_modelo.php:170
+Stack trace:
+#0 /home/ecugasco/public_html/index.php(14): Web->datos_sliders('inicio')
+#1 {main}
+  thrown in /home/ecugasco/public_html/modelo/web_modelo.php on line 170
+[27-Jul-2022 22:56:16 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/modelo/web_modelo.php:170
+Stack trace:
+#0 /home/ecugasco/public_html/index.php(15): Web->datos_sliders('inicio')
+#1 {main}
+  thrown in /home/ecugasco/public_html/modelo/web_modelo.php on line 170
+[27-Jul-2022 22:56:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/modelo/web_modelo.php:170
+Stack trace:
+#0 /home/ecugasco/public_html/index.php(15): Web->datos_sliders('inicio')
+#1 {main}
+  thrown in /home/ecugasco/public_html/modelo/web_modelo.php on line 170
+[27-Jul-2022 23:56:47 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ecugasco/public_html/index.php on line 124
+[27-Jul-2022 23:56:49 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ecugasco/public_html/index.php on line 124
+[27-Jul-2022 23:57:06 America/New_York] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ecugasco/public_html/index.php on line 124

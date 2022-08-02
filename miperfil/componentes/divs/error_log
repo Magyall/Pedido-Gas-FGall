@@ -1,0 +1,70 @@
+[19-Jul-2022 22:29:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:29:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:31:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:32:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:32:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:32:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:34:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:36:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:37:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:37:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(15): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[19-Jul-2022 22:39:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php:36
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_sliders.php(14): Procesos->Listar()
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/sliders_modelo.php on line 36
+[29-Jul-2022 19:47:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/miperfil/modelo/repartidores_modelo.php:245
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_repartidores.php(52): Procesos->ListarVehiculoxId(2)
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/repartidores_modelo.php on line 245
+[29-Jul-2022 19:48:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/ecugasco/public_html/miperfil/modelo/repartidores_modelo.php:245
+Stack trace:
+#0 /home/ecugasco/public_html/miperfil/componentes/divs/div_repartidores.php(52): Procesos->ListarVehiculoxId(2)
+#1 {main}
+  thrown in /home/ecugasco/public_html/miperfil/modelo/repartidores_modelo.php on line 245
